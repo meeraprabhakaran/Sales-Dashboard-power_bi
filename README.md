@@ -26,15 +26,14 @@ Present actionable business insights through an interactive dashboard.
 
 🛠️ Tools & Technologies
 
-Tool                              Purpose
+🛠️ Tools & Technologies
 
-Microsoft Power BI      Dashboard development and visualization
-
-Power Query             Data preparation and transformation
-
-DAX                     KPI calculations and measures
-
-Data Visualization      Business performance analysis
+| Tool | Purpose |
+|---|---|
+| Microsoft Power BI | Dashboard development and visualization |
+| Power Query | Data preparation and transformation |
+| DAX | KPI calculations and measures |
+| Data Visualization | Business performance analysis |
 
 📂 Dashboard Structure
 
