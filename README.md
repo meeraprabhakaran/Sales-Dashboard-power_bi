@@ -1,20 +1,26 @@
-Sales Data Analysis Dashboard — Project Overview
+📊 Sales Data Analysis Dashboard | Power BI
 
-📌 Executive Summary
-This interactive Power BI dashboard provides an end-to-end analysis of multi-regional sales operations spanning 2017 to 2019. It transforms raw transactional data into actionable commercial insights by evaluating performance across four core business dimensions: Sales Performance, Product Offerings, Geographic Reach, and Customer Relationships.
+📌 Project Overview
 
-📊 Dashboard Pages & Detailed Breakdown
-Page 1: Main Sales Data Analysis (Executive Overview)
-High-Level KPIs:
- Total Sales: $154.57M   
- Total Profit: $6.81M   
- Profit Margin: 4.41%   
- Total Quantity Sold: 68K units  
- Total Orders: 7.991K  
-Monthly Sales Trend:
- Displays strong revenue seasonality with noticeable volatility.
- Peak Performance: March generated the highest revenue at $14.40M
- Secondary Peaks: August ($13.58M) and September ($13.81M).
- Lowest Point: February dropped to $11.70M.   
- 
+The Sales Data Analysis Dashboard is an interactive business intelligence project developed using Microsoft Power BI to analyze sales performance across products, regions, customers, and sales channels.
+The project transforms raw sales data into meaningful business insights through interactive visualizations and key performance indicators (KPIs). It helps understand revenue trends, product profitability, regional performance, customer contributions, and sales distribution.
+The primary objective is to support data-driven business decisions by identifying sales patterns, high-performing products, profitable customers, and opportunities for improvement.
+
+🎯 Project Objectives
+
+Analyze overall sales and profit performance.,
+
+Identify monthly sales trends and seasonal patterns.,
+
+Evaluate product-wise sales and profitability.,
+
+Compare sales performance across different cities and regions.,
+
+Analyze sales distribution across multiple currencies.,
+
+Identify top-performing customers.,
+
+Understand the contribution of different sales channels.,
+
+Present actionable business insights through an interactive dashboard.,
  
