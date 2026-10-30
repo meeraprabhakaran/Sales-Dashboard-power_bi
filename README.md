@@ -8,19 +8,19 @@ The primary objective is to support data-driven business decisions by identifyin
 
 🎯 Project Objectives
 
-Analyze overall sales and profit performance.,
+Analyze overall sales and profit performance.
 
-Identify monthly sales trends and seasonal patterns.,
+Identify monthly sales trends and seasonal patterns.
 
-Evaluate product-wise sales and profitability.,
+Evaluate product-wise sales and profitability.
 
-Compare sales performance across different cities and regions.,
+Compare sales performance across different cities and regions.
 
-Analyze sales distribution across multiple currencies.,
+Analyze sales distribution across multiple currencies.
 
-Identify top-performing customers.,
+Identify top-performing customers.
 
-Understand the contribution of different sales channels.,
+Understand the contribution of different sales channels.
 
-Present actionable business insights through an interactive dashboard.,
+Present actionable business insights through an interactive dashboard.
  
