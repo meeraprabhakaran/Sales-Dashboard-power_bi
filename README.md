@@ -34,11 +34,11 @@ Provides a high-level summary of overall business performance.
 
  Key KPIs:
 
--Total Sales: $154.57M*
--Total Profit: $6.81M*
--Profit Margin: 4.41%
--Total Quantity Sold: 68K (approximately)
--Total Orders: 7,991
+- Total Sales: $154.57M*
+- Total Profit: $6.81M*
+- Profit Margin: 4.41%
+- Total Quantity Sold: 68K (approximately)
+- Total Orders: 7,991
 
 Visualizations:
 
