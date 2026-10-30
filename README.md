@@ -32,7 +32,7 @@ The primary objective is to support data-driven business decisions by identifyin
 
 Provides a high-level summary of overall business performance.
 
-Key KPIs:
+ Key KPIs:
 
 -Total Sales: $154.57M*
 -Total Profit: $6.81M*
